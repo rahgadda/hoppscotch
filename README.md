@@ -1,2 +1,1 @@
-# hoppscotch
-My Learning on Hoppscotch
+# Hoppscotch
